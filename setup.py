@@ -81,7 +81,7 @@ else:
                     % sys.platform)
 
 
-setup(name='PyBluez',
+setup(name='PyBluezovenlab',
       version='0.30',
       description='Bluetooth Python extension module',
       author="Albert Huang",
